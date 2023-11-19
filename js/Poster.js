@@ -38,7 +38,7 @@ AFRAME.registerComponent("poster",{
             {
                 id : "batman",
                 title : "Batman",
-                url : "../assets/batman.png"
+                url : "../assets/batman.jpg"
             },
             {
                 id : "spiderman",
